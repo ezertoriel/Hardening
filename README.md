@@ -1,7 +1,7 @@
 # Hardening
 
 ## Video
-
+https://youtu.be/Sy851FEpH-4
 ---
 
 ## Propósito
@@ -36,9 +36,16 @@ Este laboratorio fue creado con el fin de probar lo que es el hardening, que es 
 ## Informe realizado al equipo Linux sin cambios con informe
 <img width="675" height="324" alt="image" src="https://github.com/user-attachments/assets/21662282-bb6a-4f5e-94fe-c634604fa60e" />
 
+
 ## Informe realizado a Linux después de con su informe
 <img width="711" height="388" alt="image" src="https://github.com/user-attachments/assets/d426cd01-9db3-4cbe-8cd1-e4b42a066768" />
 
+## Informe realizado en los equipos de red despues de los cambios aplicados.
+<img width="647" height="288" alt="image" src="https://github.com/user-attachments/assets/7fc48eed-fb77-4e81-b410-063ea3360e68" />
+
+
+## Resultado del informe del escaneo CIS en los equipos de red sin aplicar los cambios
+<img width="560" height="279" alt="image" src="https://github.com/user-attachments/assets/fad78d7e-aeab-4d93-a425-b0c55c901af3" />
 
 
 
