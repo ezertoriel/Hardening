@@ -28,9 +28,9 @@ Este laboratorio fue creado con el fin de probar lo que es el hardening, que es 
 ---
 
 ## Dispositivos
-Linux Ubuntu
-Firewall Fortigate
-Router Cisco
-Switch Cisco
+1. Linux Ubuntu
+2. Firewall Fortigate
+3. Router Cisco
+4. Switch Cisco
 
 
