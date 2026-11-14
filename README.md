@@ -8,10 +8,12 @@
 Este laboratorio fue creado con el fin de probar lo que es el hardening, que es muy utilizado para proteger los equipos y no permitir que sean tan vulnerables. Se usará hardening con el dispositivo de o nodo y también con los componentes de la red. 
 
 ## Topología
+<img width="311" height="391" alt="image" src="https://github.com/user-attachments/assets/201c6236-beee-48a5-ab12-eacebd4d7252" />
 
 ---
 
 ## Diagrama
+<img width="985" height="1024" alt="image" src="https://github.com/user-attachments/assets/50bf6f58-6fa4-412c-8890-a9f56f9df6a7" />
 
 ## Direccionamiento
 
