@@ -33,4 +33,12 @@ Este laboratorio fue creado con el fin de probar lo que es el hardening, que es 
 3. Router Cisco
 4. Switch Cisco
 
+## Informe realizado al equipo Linux sin cambios con informe
+<img width="675" height="324" alt="image" src="https://github.com/user-attachments/assets/21662282-bb6a-4f5e-94fe-c634604fa60e" />
+
+## Informe realizado a Linux después de con su informe
+<img width="711" height="388" alt="image" src="https://github.com/user-attachments/assets/d426cd01-9db3-4cbe-8cd1-e4b42a066768" />
+
+
+
 
