@@ -15,6 +15,14 @@ Este laboratorio fue creado con el fin de probar lo que es el hardening, que es 
 
 ## Direccionamiento
 
+| Red | Equipo/Puerto | IP |
+| :--- | :---: | ---: |
+| LAN | Fortigate port1 | 172.8.63.2/25 |
+| LAN | Router fa0/0 | 172.8.63.1/25 |
+| Privada | Switch vlan1 | 10.8.63.5/24 |
+| Privada | Linux User | 10.8.63.4/24 |
+
+
 ---
 
 ## Dispositivos
