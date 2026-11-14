@@ -1,0 +1,33 @@
+enable
+configure terminal
+hostname S-Cis
+no ip domain-lookup
+banner motd #Solo personal autorizado#
+username Jimenez privilege 15 secret Cisco123
+ip domain-name ezequiel0863.itla.edu.do
+ip ssh version 2
+crypto key generate rsa modulus 2048
+ip ssh cipher aes256-cbc aes192-cbc aes128-cbc
+
+line console 0
+password Jimenez
+login
+exit
+line vty 0 15
+transport input ssh
+login local
+exit
+
+vlan 1
+name Administracion
+interface vlan 1
+ip address 10.8.63.5 255.255.255.0
+description Conexion a Red LAN-Red
+no shutdown
+exit
+
+ip default-gateway 10.8.63.1
+
+end
+write memory 
+copy running-config startup-config
